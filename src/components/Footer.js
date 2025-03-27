@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Vishal Kumar</h3>
+          <h3>Designed and Developed by Rishabh Bansal</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} VK</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Vishal10502"
+                href="https://github.com/barishu09/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li> */}
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/vishal-kumar-a90a131b7/"
+                href="https://www.linkedin.com/in/rishabh-bansal-9b690718b/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
