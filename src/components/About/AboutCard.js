@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rishabh Bansal </span>
             from <span className="purple"> Agra(City of Taj), India.</span>
             <br />
-            I am currently employed as a software developer at incedo.
+            I am currently employed as a Senior software developer at Incedo.
             <br />
-            I have completed Btech in Industrial and Prodcution Engg. at NIT Jalandhar.
+            I have completed Btech from Delhi Technological Uniersity, Delhi.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
