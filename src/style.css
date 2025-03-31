@@ -449,6 +449,7 @@ button:focus {
   padding-top: 150px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
+  height: inherit;
 }
 
 .project-card {
@@ -608,6 +609,7 @@ button:focus {
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
+  height: inherit;
 }
 
 .resume {
@@ -654,7 +656,7 @@ button:focus {
   font-size: 0.9em;
   background: #5234795d;
   padding: 8px 15px;
-  display: inline-block;
+  display: flex;
   font-weight: 600;
   margin-bottom: 10px;
 }
